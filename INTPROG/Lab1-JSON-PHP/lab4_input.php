@@ -2,11 +2,6 @@
 // Read incoming JSON data
 $json = file_get_contents('php://input');
 
-// Use sample JSON if nothing was sent (for browser testing)
-if (empty($json)) {
-    $json = '{"name":"fenji","age":20,"email":"kyla@example.com"}';
-}
-
 // Decode JSON data into a PHP object
 $data = json_decode($json);
 
