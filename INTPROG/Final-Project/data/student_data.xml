@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+    <id>001</id>
+    <name>Carlz D. Andrino</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+  <student>
+    <id>002</id>
+    <name>Loid Russel A. Bernal</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+  <student>
+    <id>003</id>
+    <name>Kyla C. Garcia</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+  <student>
+    <id>004</id>
+    <name>Althea Kyle N. Grejarte</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+  <student>
+    <id>005</id>
+    <name>John Marcel V. Hernandez</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+  <student>
+    <id>006</id>
+    <name>Ivan Roy L. Manzano</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+  <student>
+    <id>007</id>
+    <name>Pauline Angel T. Perez</name>
+    <course>BSIT</course>
+    <year>3</year>
+  </student>
+</students>

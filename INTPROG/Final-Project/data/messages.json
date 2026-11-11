@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "The Team",
+        "title": "Welcome!",
+        "message": "Welcome to our final project site! Write a post below.",
+        "to": 0,
+        "time": "Nov 11, 2026 08:00 AM"
+    },
+    {
+        "id": 2,
+        "name": "a",
+        "title": "a",
+        "message": "a",
+        "to": 0,
+        "time": "Nov 11, 2026 05:55 PM"
+    }
+]
